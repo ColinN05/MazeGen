@@ -56,7 +56,7 @@ int main()
                 break;
             }
         }
-        if (moved == false)
+        if (moved)
         {
             path.pop();
         }
